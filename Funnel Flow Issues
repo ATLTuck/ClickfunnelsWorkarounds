@@ -1,0 +1,21 @@
+Issue #1:
+
+Funnels are skipping upsells, costing potential sales.
+
+Solution #1:
+
+Edit the Step URL for the upsell that is being skipped, and then change it back to whatever it was.
+
+(If this doesn't work, go on to Solution #2)
+
+Solution #2:
+
+Move order confirmation step up above the upsell that's being skipped, open the step that comes before that, click the 'no' button.
+If Clickfunnels takes you to the correct step, put everything back in the correct order and verify that everything is working properly.
+
+(If this doesn't work, go on to Solution #3)
+
+Solution #3:
+
+Make templates of everything inside the affected upsell, delete the step, and load your templates into a fresh upsell.
+NOTE: Do not make a step template - this only works if you're using green/blue in-editor templates.
